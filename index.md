@@ -13,3 +13,7 @@ System.out.println (i);
 ```
 ###### I can demonstrate blocks of code by using three backticks before and after the block of code 
 
+## Adding a task list
+- [ ] Learn how to use Markdown
+- [ ] Find cat
+- [ ] Pet cat
